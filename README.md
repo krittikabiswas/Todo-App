@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+# 📝 React To-Do Application  
+_A React.js Interview Task built using Material UI_
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📌 Hosted at: 
+https://todo-app-puce-theta-36.vercel.app/
+<img src="https://octodex.github.com/yogitocat/" width="200" alt="Yogitocat" />
 
-## Available Scripts
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Project-Interview_Task-blue?style=for-the-badge)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📌 Overview
+This is a simple, clean and responsive **To-Do Application** built as part of a React.js interview task.  
+It uses **Material UI** for UI design and follows clean coding practices using **functional components** and **React Hooks**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Features
 
-### `npm test`
+### ✔ Add Task
+- Add new tasks using an input field  
+- Prevents adding empty tasks  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### ✔ Display Task List
+- Shows tasks using Material UI components  
 
-### `npm run build`
+### ✔ Toggle Completion
+- Mark tasks as **Completed** or **Pending**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### ✔ Delete Task
+- Each task includes a delete button  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🧩 Bonus Features (Optional)
+- ✏️ Edit tasks  
+- 🔍 Filter tasks (All / Pending / Completed)  
+- 💾 Persist tasks using **localStorage**  
+- 📱 Fully responsive design  
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Tech Stack
+- **React.js**
+- **Material UI (MUI)**
+- **JavaScript (ES6+)**
+- **React Hooks**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## ▶️ How to Run the Project
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Install dependencies:
+- npm install
 
-## Learn More
+Start the development server:
+- npm start
+The project will run at:
+http://localhost:3000
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📸 Glimpses of my project
 
-### Code Splitting
+### 🏠 Home Screen
+![Home](./public/screenshots/1-home.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### ➕ Add Task
+![Add Task](./public/screenshots/2-all.png)
 
-### Analyzing the Bundle Size
+### ✔ Mark Complete
+![Complete](./public/screenshots/3-completed.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### ⏳ Mark Pending
+![Pending](./public/screenshots/4-pending.png)
 
-### Making a Progressive Web App
+### 💾 Edit Task
+![Edit](./public/screenshots/5-edit.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🌟 Author
 
-### Advanced Configuration
+**Krittika Biswas**  
+GitHub: https://github.com/KrittikaBiswas  
+Email: krittikakrittika100@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📄 License
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+MIT License
+Copyright (c) 2025 Krittika Biswas
