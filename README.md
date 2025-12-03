@@ -1,18 +1,14 @@
 # 📝 React To-Do Application  
-_A React.js Interview Task built using Material UI_
-
-## 📌 Hosted at: 
-https://todo-app-puce-theta-36.vercel.app/
-<img src="https://octodex.github.com/yogitocat/" width="200" alt="Yogitocat" />
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![React Hooks](https://img.shields.io/badge/React_Hooks-088F8F?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Project-Interview_Task-blue?style=for-the-badge)
 
 ---
 
 ## 📌 Overview
+
+🌟 Check out: https://todo-app-puce-theta-36.vercel.app/
 This is a simple, clean and responsive **To-Do Application** built as part of a React.js interview task.  
 It uses **Material UI** for UI design and follows clean coding practices using **functional components** and **React Hooks**.
 
